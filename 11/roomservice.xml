@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="ahisky-droid/android_device_lge_f320" path="device/lge/f320" remote="github" />
+  <project name="ahisky-droid/android_device_lge_g2-common" path="device/lge/g2-common" remote="github" />
+  <project name="ahisky-droid/android_kernel_lge_msm8974" path="kernel/lge/msm8974" remote="github" />
+  <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" />
+  <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" />
+</manifest>
