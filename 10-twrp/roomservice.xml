@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="ahisky-droid/twrp_device_lenovo_m11_row" path="device/lenovo/m11_row" remote="github" />
+  <project name="ahisky-droid/twrp_device_lenovo_sm6115-common" path="device/lenovo/sm6115-common" remote="github" />
+</manifest>
